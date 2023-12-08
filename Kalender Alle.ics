@@ -4,7 +4,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240115
 DTEND;VALUE=DATE:20240122
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240129
 DTEND;VALUE=DATE:20240205
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240311
 DTEND;VALUE=DATE:20240318
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -43,12 +43,12 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240429
 DTEND;VALUE=DATE:20240506
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20240429T120000
-DESCRIPTION:Erinnerung
+DESCRIPTION:Wochenputzplan
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -56,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240610
 DTEND;VALUE=DATE:20240617
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -69,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240708
 DTEND;VALUE=DATE:20240715
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240729
 DTEND;VALUE=DATE:20240805
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20240930
 DTEND;VALUE=DATE:20241007
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20241028
 DTEND;VALUE=DATE:20241104
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -121,12 +121,12 @@ BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20241209
 DTEND;VALUE=DATE:20241216
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20241209T120000
-DESCRIPTION:Erinnerung
+DESCRIPTION:Wochenputzplan
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
@@ -134,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20240122
 DTEND;VALUE=DATE:20240129
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -147,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20240205
 DTEND;VALUE=DATE:20240212
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -160,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20240422
 DTEND;VALUE=DATE:20240429
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20240520
 DTEND;VALUE=DATE:20240527
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -186,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20240617
 DTEND;VALUE=DATE:20240624
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -199,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20240701
 DTEND;VALUE=DATE:20240708
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -212,7 +212,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20241021
 DTEND;VALUE=DATE:20241028
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20241104
 DTEND;VALUE=DATE:20241111
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -238,7 +238,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20241202
 DTEND;VALUE=DATE:20241209
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -251,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Alexa
 DTSTART;VALUE=DATE:20241216
 DTEND;VALUE=DATE:20241223
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20231211
 DTEND;VALUE=DATE:20231218
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20240212
 DTEND;VALUE=DATE:20240219
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -290,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20240226
 DTEND;VALUE=DATE:20240305
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20240415
 DTEND;VALUE=DATE:20240422
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -316,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20240513
 DTEND;VALUE=DATE:20240520
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20240627
 DTEND;VALUE=DATE:20240704
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -342,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20240722
 DTEND;VALUE=DATE:20240729
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20241014
 DTEND;VALUE=DATE:20241021
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -368,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20241111
 DTEND;VALUE=DATE:20241118
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Julia
 DTSTART;VALUE=DATE:20241125
 DTEND;VALUE=DATE:20241202
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -394,7 +394,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240108
 DTEND;VALUE=DATE:20240115
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240219
 DTEND;VALUE=DATE:20240226
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -420,7 +420,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240304
 DTEND;VALUE=DATE:20240311
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -433,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240318
 DTEND;VALUE=DATE:20240325
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240408
 DTEND;VALUE=DATE:20240415
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -459,7 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240506
 DTEND;VALUE=DATE:20240513
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -472,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240603
 DTEND;VALUE=DATE:20240610
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240715
 DTEND;VALUE=DATE:20240722
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -498,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20240923
 DTEND;VALUE=DATE:20240930
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20241007
 DTEND;VALUE=DATE:20241014
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
@@ -524,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Soraya
 DTSTART;VALUE=DATE:20241118
 DTEND;VALUE=DATE:20241125
-LOCATION:Putzplan
+LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
