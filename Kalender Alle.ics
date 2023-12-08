@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20231218
-DTEND;VALUE=DATE:20231225
+DTEND;VALUE=DATE:20231223
 LOCATION:Wochenputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nPutzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
