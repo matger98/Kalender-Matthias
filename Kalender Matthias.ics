@@ -168,6 +168,7 @@ DTSTAMP:20250121T120000Z
 SUMMARY:Restmüll und Papiermüll rausstellen
 DTSTART;TZID=Europe/Berlin:20250203T190000
 DTEND;TZID=Europe/Berlin:20250203T190100
+LOCATION:Müllplan
 DESCRIPTION:Abfuhrkalender: https://i.postimg.cc/dtngCvV8/IMG-5512.jpg
 BEGIN:VALARM
 TRIGGER;TZID=Europe/Berlin:20250203T190000
@@ -365,7 +366,7 @@ DTEND;TZID=Europe/Berlin:20250127T190100
 DESCRIPTION:Abfuhrkalender: https://i.postimg.cc/dtngCvV8/IMG-5512.jpg
 BEGIN:VALARM
 TRIGGER;TZID=Europe/Berlin:20250127T190000
-DESCRIPTION:Abfuhrkalender: https://i.postimg.cc/dtngCvV8/IMG-5512.jpg
+DESCRIPTION:Erinnerung
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
