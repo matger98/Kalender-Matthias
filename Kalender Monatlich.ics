@@ -224,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matthias
 DTSTART;VALUE=DATE:20250701
-DTEND;VALUE=DATE:20250701
+DTEND;VALUE=DATE:20250801
 LOCATION:Monatsputzplan
 DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
