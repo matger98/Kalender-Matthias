@@ -1427,7 +1427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:gelbe-säcke-rauslegen-20250210
 DTSTAMP:20250121T164736Z
-SUMMARY:Gelbe Säcke rauslegen
+SUMMARY:Gelbe Säcke rauslegendede
 DTSTART;TZID=Europe/Berlin:20250324T190000
 DTEND;TZID=Europe/Berlin:20250324T190100
 DESCRIPTION:Abfuhrkalender: https://i.postimg.cc/dtngCvV8/IMG-5512.jpg
