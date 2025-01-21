@@ -148,7 +148,7 @@ SUMMARY:Julia
 DTSTART;VALUE=DATE:20250101
 DTEND;VALUE=DATE:20250201
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250101T110000
@@ -161,7 +161,7 @@ SUMMARY:Soraya
 DTSTART;VALUE=DATE:20250201
 DTEND;VALUE=DATE:20250301
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250201T110000
@@ -174,7 +174,7 @@ SUMMARY:Matthias
 DTSTART;VALUE=DATE:20250301
 DTEND;VALUE=DATE:20250401
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250301T110000
@@ -187,7 +187,7 @@ SUMMARY:Alexa
 DTSTART;VALUE=DATE:20250401
 DTEND;VALUE=DATE:20250501
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250401T110000
@@ -200,8 +200,7 @@ SUMMARY:Alexa
 DTSTART;VALUE=DATE:20250501
 DTEND;VALUE=DATE:20250601
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
-STATUS:FREE
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250501T110000
 DESCRIPTION:Erinnerung
@@ -213,7 +212,7 @@ SUMMARY:Julia
 DTSTART;VALUE=DATE:20250601
 DTEND;VALUE=DATE:20250701
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250601T110000
@@ -226,7 +225,7 @@ SUMMARY:Matthias
 DTSTART;VALUE=DATE:20250701
 DTEND;VALUE=DATE:20250801
 LOCATION:Monatsputzplan
-DESCRIPTION:Checkliste: \nhttps://www.icloud.com/notes/032aKmplQloXPoW-eHZDXdgDg\n\nMonatsputzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
+DESCRIPTION:Checkliste & Putzplan: \nhttps://www.icloud.com/notes/086SpnxDthaEdc1gGeI5JX-rg
 STATUS:FREE
 BEGIN:VALARM
 TRIGGER;VALUE=DATE-TIME:20250701T110000
